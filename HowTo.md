@@ -6,3 +6,8 @@ but this centeralized document will strive to be more succent as well as point o
 
 In order to build for the i.MX--- series, you really need a Linux distribution. Ideally you'd be building/working directly off a Linux machine. However, if
 as in my case right now, this is not possible, then your best bet is to install/use WSL on windows. 
+
+To install Ubuntu in WSL on your machine, you can open a PowerShell and run the following command:
+
+    wsl --install -d ubuntu
+
